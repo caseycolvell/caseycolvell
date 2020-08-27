@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" width="150" height="150" src="https://github.com/caseycolvell/caseycolvell/blob/main/octocasey/octocat.png?raw=true">
+<img align="left" width="150" height="150" src="https://github.com/caseycolvell/caseycolvell/blob/master/octocasey/octocat.png">
 <!--
 **caseycolvell/caseycolvell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
