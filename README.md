@@ -1,14 +1,5 @@
 # Stats :chart_with_upwards_trend:
-<table>
-  <tr>
-    <td valign="center">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=caseycolvell&theme=highcontrast&hide_border=true" alt="caseycolvell" />
-    </td>
-    <td valign="center">
-      <a href="https://app.daily.dev/caseycolvell"><img src="https://github.com/caseycolvell/caseycolvell/blob/master/devcard.svg" width="400" alt="Casey Colvell's Dev Card"/></a>
-    </td>
-  </tr>
-</table>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=caseycolvell&theme=highcontrast&hide_border=true" alt="caseycolvell" />
   
 # Activity Graph :chart_with_upwards_trend:
 
