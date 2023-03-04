@@ -1,10 +1,5 @@
 # Stats :chart_with_upwards_trend:
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=caseycolvell&theme=highcontrast&hide_border=true" alt="caseycolvell" />
-  
-# Activity Graph :chart_with_upwards_trend:
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=caseycolvell&theme=dracula&hide_border=true)
-
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=caseycolvell&theme=highcontrast&hide_border=true" alt="caseycolvell" /> 
 
 # Technologies :gear:
 
