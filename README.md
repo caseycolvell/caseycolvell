@@ -1,5 +1,5 @@
 # Stats :chart_with_upwards_trend:
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=caseycolvell&theme=highcontrast&hide_border=true" alt="caseycolvell" /> 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/caseycolvell?cardType=level-alternate&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card)
 
 # Technologies :gear:
 
