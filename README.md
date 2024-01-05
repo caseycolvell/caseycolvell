@@ -1,6 +1,3 @@
-# Stats :chart_with_upwards_trend:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/caseycolvell?cardType=level-alternate&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card)
-
 # Technologies :gear:
 
 ## Languages :writing_hand:
